@@ -1,0 +1,10 @@
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\bin\Release\Lab1SGBF.exe.config
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\bin\Release\Lab1SGBF.exe
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\bin\Release\Lab1SGBF.pdb
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\obj\Release\Lab1SGBF.Form1.resources
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\obj\Release\Lab1SGBF.Interfata.resources
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\obj\Release\Lab1SGBF.Properties.Resources.resources
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\obj\Release\Lab1SGBF.csproj.GenerateResource.Cache
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\obj\Release\Lab1SGBF.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\obj\Release\Lab1SGBF.exe
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\obj\Release\Lab1SGBF.pdb

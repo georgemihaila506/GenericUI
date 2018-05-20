@@ -1,0 +1,11 @@
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\bin\Debug\Lab1SGBF.exe.config
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\bin\Debug\Lab1SGBF.exe
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\bin\Debug\Lab1SGBF.pdb
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\obj\Debug\Lab1SGBF.csprojResolveAssemblyReference.cache
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\obj\Debug\Lab1SGBF.Form1.resources
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\obj\Debug\Lab1SGBF.Interfata.resources
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\obj\Debug\Lab1SGBF.Properties.Resources.resources
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\obj\Debug\Lab1SGBF.csproj.GenerateResource.Cache
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\obj\Debug\Lab1SGBF.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\obj\Debug\Lab1SGBF.exe
+C:\Users\George\source\repos\Lab1SGBF\Lab1SGBF\obj\Debug\Lab1SGBF.pdb
